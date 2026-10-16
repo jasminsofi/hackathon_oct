@@ -40,16 +40,68 @@ Integra herramientas de inteligencia artificial para analizar la información di
 ## 🛠️ Stack Tecnológico
 - **Backend:** Python, Flask
 - **Frontend:** HTML5, Bootstrap, CSS
-- **Inteligencia Artificial:** Motor lógico de reglas en Python (Sin coste de API, offline-ready)
-- **Datos:** Archivos JSON locales (`data/aulas.json`)
+- **Inteligencia Artificial:** Gemanis
+- **Datos:** Archivos JSON 
 
 ---
 
-## 🚀 Instalación y Ejecución
+# imágenes de los espacios 
+## Auditorio: capacidad  100 personas
 
-Sigue estos sencillos pasos para poner en marcha el proyecto en tu entorno local:
+<div align="center">
+  <img width="600" alt="Auditorio" src="https://github.com/user-attachments/assets/bd7cc2d5-5526-432e-9f28-e739a9484d4b" />
+</div>
 
-### 1. Clonar el repositorio
-```bash
-git clone <url-del-repositorio>
-cd campusflow
+## Cosmos: Capacidad 25 personas
+<div align="center">
+  <img width="600" alt="Cosmos" src="https://github.com/user-attachments/assets/43361743-8f1a-4203-bed9-cdc9149b18dd" />
+</div>
+
+## Skilab: Capacidad 20 personas
+<div align="center">
+  <img width="600" alt="Skilab" src="https://github.com/user-attachments/assets/6bde4a99-0ef6-47c1-9da2-8cf17a12c93e" />
+</div>
+
+## Sputnik: Capacidad 38 personas
+<div align="center">
+  <img width="600" alt="Sputnik" src="https://github.com/user-attachments/assets/d55da66d-586b-4352-8065-6a2a8c17960d" />
+</div>
+
+## Apolo: Capacidad 34 personas
+<div align="center">
+  <img width="600" alt="Apolo" src="https://github.com/user-attachments/assets/42e9821c-bd5c-41a5-a778-46edd4653f6a" />
+</div>
+
+## Blanca: Capacidad 12 personas
+<div align="center">
+  <img width="600" alt="Blanca" src="https://github.com/user-attachments/assets/2b4947d3-f33a-4b9e-8748-92f6e42f4358" />
+</div>
+
+## Azul: Capacidad 10 personas
+<div align="center">
+  <img width="600" alt="Azul" src="https://github.com/user-attachments/assets/f1f13387-9638-4b2e-a38b-0d631bcce3c4" />
+</div>
+
+## Amarillas y verdes: Capacidad 6 personas
+<div align="center">
+  <img width="600" alt="Amarillas y verdes 1" src="https://github.com/user-attachments/assets/819f9d72-e6c0-4fff-846d-fadabf471f7a" />
+  <br><br>
+  <img width="600" alt="Amarillas y verdes 2" src="https://github.com/user-attachments/assets/e2851323-fb5f-408e-bc6f-fb51e0179706" />
+</div>
+
+## Artemis: Capacidad 32 personas
+<div align="center">
+  <img width="600" alt="Artemis" src="https://github.com/user-attachments/assets/42315963-b2eb-41a7-b23f-324d14fa380a" />
+</div>
+
+ 
+
+
+
+ 
+
+
+
+
+
+
