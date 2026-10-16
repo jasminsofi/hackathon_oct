@@ -6,6 +6,7 @@
     {"id":5,"nombre":"Apolo","capacidad":34,"estado":"Disponible"},
     {"id":6,"nombre":"Blanca","capacidad":12,"estado":"Disponible"},
     {"id":7,"nombre":"Azul","capacidad":10,"estado":"Disponible"},
-    {"id":8,"nombre":"Amarillas Verdes","capacidad":6,"estado":"Disponible"},
-    {"id":9,"nombre":"Artemis","capacidad":32,"estado":"Disponible"}
+    {"id":8,"nombre":"Amarillas","capacidad":6,"estado":"Disponible"},
+    {"id":9,"nombre":"Verdes","capacidad":6,"estado":"Disponible"},
+    {"id":10,"nombre":"Artemis","capacidad":32,"estado":"Disponible"}
 ]
