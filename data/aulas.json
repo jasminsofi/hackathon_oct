@@ -1,0 +1,11 @@
+[
+    {"id":1,"nombre":"Auditorio","capacidad":100,"estado":"Disponible"},
+    {"id":2,"nombre":"Cosmos","capacidad":25,"estado":"Disponible"},
+    {"id":3,"nombre":"Skilab","capacidad":20,"estado":"Disponible"},
+    {"id":4,"nombre":"Spooki","capacidad":38,"estado":"Disponible"},
+    {"id":5,"nombre":"Apolo","capacidad":34,"estado":"Disponible"},
+    {"id":6,"nombre":"Blanca","capacidad":12,"estado":"Disponible"},
+    {"id":7,"nombre":"Azul","capacidad":10,"estado":"Disponible"},
+    {"id":8,"nombre":"Amarillas Verdes","capacidad":6,"estado":"Disponible"},
+    {"id":9,"nombre":"Artemis","capacidad":32,"estado":"Disponible"}
+]
